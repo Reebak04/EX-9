@@ -47,11 +47,10 @@ while True:
 ## OUTPUT :
 
 ### clientoutput :
-![co](https://github.com/Reebak04/EX-9/assets/118364993/708de6c7-dc18-402c-8340-2afc1b3ba79a)
+![6co](https://github.com/Reebak04/EX-9/assets/118364993/2797481a-6edf-4cb6-b23f-90896c710e13)
 
 ### serveroutput :
-![so](https://github.com/Reebak04/EX-9/assets/118364993/59fa359b-daac-450e-8b4e-451f50976d9a)
-
+![6so](https://github.com/Reebak04/EX-9/assets/118364993/ef99d885-7e1c-47db-8d91-aaced21a5920)
 
 ## RESULT :
 Thus, the python program for creating Chat using TCP Sockets Links was successfully
